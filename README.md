@@ -14,7 +14,6 @@
 
 <h2 style="margin-bottom: 10px;">💻 Tech Stack</h2> <!-- Titolo con margine inferiore -->
 
-<div style="margin-bottom: 20px;"> <!-- Aggiungi margine alla sezione Tech Stack -->
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
   ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
