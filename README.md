@@ -3,7 +3,8 @@
 # Hey there! I'm Giovanni Topor 👋🏼
 
 🧠 Java Back-end developer in the making  
-📚 Currently studying Java & Spring Boot at [Develhope](https://www.develhope.co/?utm_source=google_brand&utm_medium=cpc&utm_campaign=12484029733&utm_content=122479314607&utm_term=develhope&utm_term=develhope&utm_campaign=SN_IT_Brand&utm_source=google&utm_medium=cpc&hsa_acc=4174580666&hsa_cam=12484029733&hsa_grp=122479314607&hsa_ad=567779246140&hsa_src=g&hsa_tgt=kwd-1275841731287&hsa_kw=develhope&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwktO_BhBrEiwAV70jXrsVg7L_1nnfXfPwoXEnTIklPo9k32ZMwMRUNuHlWE2vYN233GTp1xoCBi8QAvD_BwE). 
+📚 Currently studying Java & Spring Boot at [Develhope](https://www.develhope.co/?utm_source=google_brand&utm_medium=cpc&utm_campaign=12484029733&utm_content=122479314607&utm_term=develhope&utm_term=develhope&utm_campaign=SN_IT_Brand&utm_source=google&utm_medium=cpc&hsa_acc=4174580666&hsa_cam=12484029733&hsa_grp=122479314607&hsa_ad=567779246140&hsa_src=g&hsa_tgt=kwd-1275841731287&hsa_kw=develhope&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwktO_BhBrEiwAV70jXrsVg7L_1nnfXfPwoXEnTIklPo9k32ZMwMRUNuHlWE2vYN233GTp1xoCBi8QAvD_BwE)
+
 🛠️ Learning how to build robust, scalable APIs and server-side applications  
 📈 Always improving and working on clean, maintainable code  
 🎯 Focused on backend technologies and database design
