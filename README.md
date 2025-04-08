@@ -1,4 +1,4 @@
-<img src="giovannitopor/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16938203.jpg" alt="GitHub Banner" width="70%" />
+<img src="giovannitopor/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16938203.jpg" alt="GitHub Banner" width="100%" />
 
 # Hey there! I'm Giovanni Topor 👋🏼
 
