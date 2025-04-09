@@ -8,6 +8,7 @@
 🛠️ Learning how to build robust, scalable APIs and server-side applications  
 📈 Always improving and working on clean, maintainable code  
 🎯 Focused on backend technologies and database design
+📄 [View my CV](https://drive.google.com/file/d/1wuQYd6FBdC82G9HCxCVFZltDulio98qT/view?usp=sharing)
 
 ---
 
